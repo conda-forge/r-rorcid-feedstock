@@ -1,11 +1,11 @@
-About r-rorcid
-==============
+About r-rorcid-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rorcid-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ropensci/rorcid (devel), https://docs.ropensci.org/rorcid/ (docs)
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rorcid-feedstock/blob/main/LICENSE.txt)
 
 Summary: Client for the 'Orcid.org' API (<https://orcid.org/>). Functions included for searching for people, searching by 'DOI', and searching by 'Orcid' 'ID'.
 
